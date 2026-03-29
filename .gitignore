@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+venv/
+*.pt
+*.zip
+cmaes_runs/
+energy_opt_runs/
