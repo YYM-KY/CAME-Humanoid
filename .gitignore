@@ -4,7 +4,6 @@ __pycache__/
 *.egg-info/
 .env
 venv/
-*.pt
 *.zip
 cmaes_runs/
 energy_opt_runs/
