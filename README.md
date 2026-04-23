@@ -71,6 +71,7 @@ main.py                      ← Pipeline-Orchestrierung (4 Schritte)
 │
 └── utils.py                 ← Logging, Vergleichsplot, JSON-Export
 ```
+(Workflow.jpg)
 ---
 
 ## 6. Ergebnisse und Interpretation
